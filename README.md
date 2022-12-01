@@ -1,2 +1,3 @@
 # advent-of-code
-Advent of Code knowledge database
+
+Advent of code społeczności Frontlive.
